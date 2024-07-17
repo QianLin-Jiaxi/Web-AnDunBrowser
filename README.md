@@ -4,3 +4,7 @@ This is a browser written in e and various open-source projects. It may not be p
 我只会上传部分重要的更新，包括（严重错误，新功能添加等）
 编译好的程序包将在01v00版本时发布，或许会更早
 （当前版本：00v08）
+
+
+The program source code is in a branch
+程序源码在临一个分支中
