@@ -1,0 +1,4 @@
+[0718/230621.955:ERROR:broker_win.cc(55)] Error reading broker pipe: 管道已结束。 (0x6D)
+[0718/230621.957:ERROR:broker_win.cc(141)] Error sending sync broker message: 管道正在被关闭。 (0xE8)
+[0718/230621.957:ERROR:broker_win.cc(141)] Error sending sync broker message: 管道正在被关闭。 (0xE8)
+[0718/230621.957:ERROR:broker_win.cc(141)] Error sending sync broker message: 管道正在被关闭。 (0xE8)
